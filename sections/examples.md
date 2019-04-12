@@ -30,7 +30,7 @@ As you can see across these sessions, we use GitHub to host workshop curricula. 
 
 #### Case One: This Session
 
-If you look just under the workshop title, `dhsouthbend/git` at the top of this page, you can see it is `DHRI-Curriculum/git`. That line shows that this particular repository is building on ("forked from") the curriculum for a session presented at the June 2018 Institute held at the CUNY Graduate Center. If you then look at that repository, you will see that it is in turn forked from previous sessions that were developed by other GC Digital Fellows for workshops in past years. 
+If you look just under the workshop title, `dhsouthbend/git` at the top of this page, you can see it is `forked from DHRI-Curriculum/git`. That line shows that this particular repository is building on ("forked from") the curriculum for a session presented at the June 2018 Institute held at the CUNY Graduate Center. If you then look at that repository, you will see that it is in turn forked from previous sessions that were developed by other GC Digital Fellows for workshops in past years. 
 
 ### Collaborative Writing
 
