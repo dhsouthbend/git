@@ -1,9 +1,9 @@
 [Next >>>](examples.md)  
 
 # What are Git, GitHub and Markdown?
-
-![Illustrated image of Git logo and the GitHub octocat sitting beside eachother with a crossed-out equal sign between them indicating Git and GitHub are not the same.](https://github.com/dhsouthbend/git/blob/master/images/GitNOTGitHub.png)
-
+  
+![Illustrated image of Git logo and the GitHub octocat sitting beside eachother with a crossed-out equal sign between them indicating Git and GitHub are not the same.](https://github.com/dhsouthbend/git/blob/master/images/GitNOTGitHub.png)  
+> _Image sourced from [freeCodeCamp](https://guide.freecodecamp.org/git/difference-git-github/)_
 ## What is Git? 
 
 **Git** is software used for version control—that is, tracking the state of files. Using Git, you designate certain folders as repositories, then use commands to save the state of the repository at certain points in time. A *repository* is a place where things can be stored, and in this context indicates a folder that is being tracked by Git. You can perform tasks such as reverting back to previous versions of the repository, copying or sharing the repository across computers, and comparing different versions of a project.
