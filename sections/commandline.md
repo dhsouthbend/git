@@ -3,7 +3,7 @@
 
 In this session, we'll be using the command line (terminal, bash) from the Command Line workshop. We'll also use your text editor and your browser. We'll be moving between these three spaces throughout the workshop. You may want to use (command + tab) or (ctrl + tab) to move quickly between the three windows on your desktop.
 
-To begin with, we'll review some command line basics, including navigation. For more on the command line, review the [materials for the command line session](https://github.com/DHRI-Curriculum/command-line).
+To begin with, we'll review some command line basics, including navigation. For more on the command line, review the [materials for the command line session](https://github.com/dhsouthbend/command-line).
 
 ## Accessing the Terminal
 
