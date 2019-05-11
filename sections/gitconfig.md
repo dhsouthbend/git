@@ -14,7 +14,7 @@ If you see a version number, you're all set. If not, click [here](http://git-scm
 
 ## Configuring Git on Your Computer
 
-Before we get started, we'll want to configure git so that it can identify who we are. This information is useful because it connects identifying information with the changes you make in youre repository. 
+Before we get started, we'll want to configure git so that it can identify who we are. This information is useful because it connects identifying information with the changes you make in your repository. 
 
 Type the following into your command line, filling in the sections—below labelled "John Doe"—for your name and email. This does not necessarily need to be the name and email you used to sign up for GitHub.
 
