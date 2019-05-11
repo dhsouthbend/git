@@ -4,10 +4,10 @@ Git is version control software used to track the state of files associated with
 
 In this session, we'll learn what makes Git such a powerful tool for both collaborative and individual projects. We will share a conceptual overview of Git and GitHub, explore fundamental concepts such as committing and pushing, and explore practical applications of GitHub for writing and coding. This session will show how to use Git and GitHub for a variety of digital undertakings, including collaborating with others, finding code for use in your projects, and sharing your work publicly. This session covers initializing Git repositories, committing changes, pushing to GitHub, and cloning repositories to your local machine.
 
-To complete this workshop, you will need to have VS Code and Git installed on your local machine. If you have not installed them already, follow [this link to instructions for VS Code](https://github.com/DHRI-Curriculum/install/blob/master/sections/vscode.md), and [this link to instructions for Git](https://github.com/DHRI-Curriculum/install/blob/master/sections/git.md).
+To complete this workshop, you will need to have VS Code and Git installed on your local machine. If you have not installed them already, follow [this link to instructions for VS Code](https://github.com/dhsouthbend/install/blob/master/sections/vscode.md), and [this link to instructions for Git](https://github.com/dhsouthbend/install/blob/master/sections/git.md).
 
 [Get Started >>>](sections/concept.md)  
-[Glossary >>>](https://github.com/DHRI-Curriculum/glossary/blob/master/sections/git.md#git)  
+[Glossary >>>](https://github.com/dhsouthbend/glossary/blob/master/sections/git.md#git)  
 
 -----
 
