@@ -14,7 +14,7 @@ First, let's navigate back to your Desktop folder.
 	
 Remember that the ~ refers to your home directory. Now let's find the URL we need to clone the lesson.
 
-First, follow [this link to the main page of this lesson on Git and GitHub](https://github.com/DHRI-Curriculum/git).
+First, follow [this link to the main page of this lesson on Git and GitHub](https://github.com/dhsouthbend/git).
 
 On the main page, there should be a green `Clone or download` button on the right side:
 
