@@ -15,5 +15,5 @@ Office: 5489
 ### Week Two
 
 - Odo M first-person account of bureacratic procedures and security
-- Dax, J. "Etic/Enic perspectives on Klingon mating rituals."
+- Dax, J. "Etic/Emic perspectives on Klingon mating rituals."
 - O'Brien, M. "Guide to the eradication of pests, including voles."
