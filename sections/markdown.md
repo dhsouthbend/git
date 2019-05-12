@@ -18,7 +18,7 @@ Now Git is tracking our directory. But before that's useful, we'll have to creat
 
 ### Creating a Syllabus in Markdown
 
-To create a plain text file, we're going to switch to our text editor, VS Code, to create and edit a file named `syllabus.md` and save it to our 'git-practice' folder. If you have not installed VS Code, review the installation instructions here.
+To create a plain text file, we're going to switch to our text editor, VS Code, to create and edit a file named `syllabus.md` and save it to our 'git-practice' folder. If you have not installed VS Code, review [the installation instructions here](https://github.com/dhsouthbend/install/blob/master/sections/vscode.md).
 
 In terminal, check to make sure you are in your `git-practice` folder. (HINT: use 'pwd' to see what directory you are currently in) Next, type:
 
