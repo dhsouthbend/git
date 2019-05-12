@@ -84,7 +84,7 @@ On branch master
 nothing to commit, working tree clean
 ```
 
-This means that everything in the repository is successfully committed and up-to-date. If you edit your syllabus file or create a new file in the repository., the message you get with `git status` will instead list files that have uncommitted changes.
+This means that everything in the repository is successfully committed and up-to-date. If you edit your syllabus file or create a new file in the repository, the message you get with `git status` will instead list files that have uncommitted changes.
 
 Let's run one other command to see the effect our commit has had. Enter this command:
 
