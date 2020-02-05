@@ -18,7 +18,7 @@ Listed below are some suggested resources that can help you dig deeper into Git 
 
 * [Building Static Sites with Jekyll & GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages): Amanda Visconti's guide to using Jekyll and GitHub Pages to create static sites. 
 
-* [Zenodo](https://help.github.com/articles/referencing-and-citing-content/) You can use this tool to create a stable unique DOI identifier so you can site content on GitHub! 
+* [Zenodo](https://help.github.com/articles/referencing-and-citing-content/) You can use this tool to create a stable unique DOI identifier so you can cite content on GitHub! 
 
 ## Markdown
 * [Markdown for the Humanities](http://historytothepublic.org/introduction-markdown/): An article by Simon Coll on how academics can use Markdown in their writing process.
